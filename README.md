@@ -33,5 +33,6 @@ Only authenticated users can **create, read, update, and delete books**.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/rakib3903/Laravel_book_Store.git
+cd Laravel_book_Store
+
